@@ -8,3 +8,5 @@ Jpg, Gif, Bmp, Png
 
 # Usage
 python main.py <diskimg>
+
+Based on Python 3
